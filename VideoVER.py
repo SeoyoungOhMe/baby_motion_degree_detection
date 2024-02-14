@@ -69,7 +69,7 @@ def find_symmetric_point(point, center):
 
 if __name__ == "__main__":
     # 동영상 캡쳐
-    video_path = "1sec-2.mp4"
+    video_path = "many.mp4"
     output_folder = "frames-1"
     create_folder(output_folder)
     
